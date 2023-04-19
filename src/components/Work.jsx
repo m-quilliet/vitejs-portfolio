@@ -5,7 +5,7 @@ const data = [
     {
         year: 2020,
         title: 'Content Creator',
-        duration: '3 years',
+        duration: '2 years',
         details:
         'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.'
     },   
@@ -19,7 +19,7 @@ const data = [
     {
         year: 2020,
         title: 'Content Creator',
-        duration: '3 years',
+        duration: '4 years',
         details:
         'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.'
 
@@ -27,7 +27,7 @@ const data = [
     {
         year: 2020,
         title: 'Content Creator',
-        duration: '3 years',
+        duration: '5 years',
         details:
         'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.'
 
